@@ -1,0 +1,31 @@
+{
+  "name": "hexo-deployer-azure-blob-storage",
+  "version": "1.0.1",
+  "description": "Azure Blob Storage deployer plugin for Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thdotnet/hexo-deployer-azure-blob-storage.git"
+  },
+  "keywords": [
+    "azure",
+    "storage",
+    "hexo",
+    "blob",
+    "storage",
+    "azure",
+    "blob",
+    "storage",
+    "hexo",
+    "deployer"
+  ],
+  "author": "Thiago Custodio - @thdotnet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thdotnet/hexo-deployer-azure-blob-storage/issues"
+  },
+  "homepage": "https://github.com/thdotnet/hexo-deployer-azure-blob-storage#readme"
+}
